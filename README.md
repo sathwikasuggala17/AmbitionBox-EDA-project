@@ -1,6 +1,6 @@
 # AmbitionBox EDA project
 
-**DESCRIPTION**
+**DESCRIPTION:**
 The AmbitionBox dataset offers a wealth of user-generated reviews and ratings on companies across diverse industries in India. It serves as a valuable resource for job seekers, recruiters, and business analysts, providing comprehensive insights into corporate operations and culture. With its extensive collection of data and user-generated content, the AmbitionBox dataset empowers users to make informed decisions and drive business success through actionable insights into the Indian corporate landscape.
 
 **Ambitionbox analysis**
